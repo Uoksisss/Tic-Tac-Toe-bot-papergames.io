@@ -21,7 +21,7 @@ This repository contains a JavaScript implementation of an AI player for Tic-Tac
 
 This implementation assumes a specific HTML structure for the Tic-Tac-Toe game. Adjustments may be needed to work with different webpage layouts or frameworks.
 
-##To-Do list
+## To-Do list
 
 1. Make the bot unbeatable.
 2. Make it automatically leave the game after winning or losing.
