@@ -27,6 +27,11 @@ This implementation assumes a specific HTML structure for the Tic-Tac-Toe game. 
 2. Make it automatically leave the game after winning or losing.
 3. Make a Discord server.
 
+## How-To-Use
+
+Just watch my tutorial lol
+https://www.youtube.com/watch?v=PY-siUOfxsw
+
 ## Credits
 
 Made by meee(Uoksisss).
